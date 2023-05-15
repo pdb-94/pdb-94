@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Paul (@pdb-94)
-- 👀 I’m interested in data_science, energy systems, modeling
+- 👀 I’m interested in data_science, energy systems modeling
 
 
 <!---
